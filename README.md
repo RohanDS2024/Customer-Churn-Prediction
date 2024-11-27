@@ -1,5 +1,8 @@
 # Customer Churn Prediction - End-to-End Data Science Pipeline
 
+## Name: Rohan Devikoppa Shreedhara
+## Z Number: Z23802492
+
 ## Project Overview
 This project implements a comprehensive end-to-end data science pipeline to solve the **Customer Churn Prediction** problem. The goal is to predict whether a customer will churn (i.e., leave a service) based on various customer demographics and service usage attributes. 
 
